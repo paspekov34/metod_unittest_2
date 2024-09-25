@@ -4,7 +4,7 @@ import unittest
 
 
 class TournamentTest(unittest.TestCase):
-    is_frozen = True
+    
 
     @classmethod
     def setUpClass(cls):
